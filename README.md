@@ -1,4 +1,4 @@
-# SIFT-Hough-for-multi-type-pointer-meter-reading
+# pointer-meter-reading
 
 ## Flow-chart
 ![](./picture/flow-chart.jpg)
