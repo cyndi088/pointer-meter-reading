@@ -7,7 +7,7 @@
 
 ### Pre-requisites
 * Python 3.6
-* opencv-python = 3.4.2
+* opencv-python = 3.4.2.16
 * numpy = 1.18.5
 
 ### Installation
@@ -15,7 +15,7 @@
 * git clone code
 
 ```bash
-$ git clone https://github.com/tangzhenjie/SIFT-and-Hough-for-multi-type-pointer-meter-reading.git
+$ git clone git@github.com:cyndi088/pointer-meter-reading.git
 ```
 
 * the directories structure
