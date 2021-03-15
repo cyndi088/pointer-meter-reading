@@ -1,5 +1,4 @@
-Pillow==8.1.2
 imutils==0.5.4
 numpy==1.18.5
 opencv-contrib-python==3.4.2.16
-setuptools==28.8.0
+Pillow==8.1.2
